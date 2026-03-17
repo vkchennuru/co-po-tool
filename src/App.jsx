@@ -99,7 +99,7 @@ const Footer = () => (
       · Free to use, share &amp; adapt with attribution
     </div>
     <div style={{ fontSize:10, marginTop:6, opacity:0.55 }}>
-      Madhu Educational Academy · cvkrishnaveni.blogspot.com
+      vkchennuru@gmail.com · cvkrishnaveni.blogspot.com
     </div>
   </div>
 );
